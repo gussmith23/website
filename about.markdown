@@ -6,7 +6,7 @@ permalink: /about/
 
 *Last updated {{ site.time | date_to_string: "ordinal", "US" }}.*
 
-![Gus Smith](assets/me.jpg)
+![Gus Smith](/assets/me.jpg)
 
 **Short version:**
 Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures.

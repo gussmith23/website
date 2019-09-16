@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*Last updated {{ site.time | date: %B %d, %y }}*
+*Last updated {{ site.time | date: "%B %d, %y" }}*
 
 <div class="picture-of-me">
 <img src="assets/me.png" alt="Gus Smith">

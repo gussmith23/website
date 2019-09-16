@@ -6,13 +6,7 @@ permalink: /about/
 
 *Last updated {{ site.time | date_to_string: "ordinal", "US" }}.*
 
-<div class="picture-of-me">
-<img src="assets/me.png" alt="Gus Smith">
-<div>San Francisco, Summer 2018.</div>
-<div>(photo cred <a href="https://www.instagram.com/jenniekimphotography/" target="_blank">@jenniekimphotography</a>)</div>
-</div>
-
-![Gus Smith](assets/me.png)
+![Gus Smith](assets/me.jpg)
 
 **Short version:**
 Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures.

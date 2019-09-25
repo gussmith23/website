@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*Last updated {{ site.time | date_to_string: "ordinal", "US" }}.*
+*Last updated September 24th, 2019.*
 
 ![Gus Smith](/assets/me.jpg)
 

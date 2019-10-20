@@ -54,3 +54,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  # This collection is spiritually a sibling to the "posts" collection, except
+  # its items are not linked to specific dates and are likely to change
+  # frequently.
+  # Think of "posts" as writing which is linked to a date and will likely not
+  # change (e.g. my description of a trip I took.)
+  # Think of "notes" as writing which is not linked to a date and is likely to
+  # change (e.g. a list of my favorite episodes of a podcast)
+  notes:
+    output: true

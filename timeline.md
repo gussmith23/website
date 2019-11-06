@@ -5,8 +5,8 @@ title: Timeline
 
 - **November 2019:** I presented a poster at the University of Virginia on my datatypes work at the annual review for the [CRISP center]({{ site.data.references.crisp }}){:target='_blank'}, from whom I get my funding.
   + [My poster](assets/2019-11-05-crisp-bring-your-own-datatypes-poster.pdf){:target='_blank'}
-- **October 2019:** I helped out the [Relay](){:target='_blank'} group with a hackathon for the [ADA center](){:target='_blank'} meeting in Ann Arbor.
-* **Summer 2019:** I completed an internship as a research intern with the Azure AI and Advanced Architectures group under Marco Heddes. I was using TVM to statically analyze deep learning workloads. 
+- **October 2019:** I helped out the [Relay]({{ site.data.references.relay }}){:target='_blank'} group with a hackathon for the [ADA center]({{ site.data.references.ada }}){:target='_blank'} meeting in Ann Arbor.
+* **Summer 2019:** I completed an internship as a research intern with the Azure Hardware Systems Group under Marco Heddes. I was using TVM to statically analyze deep learning workloads. 
   + [The static analysis framework](https://github.com/microsoft/Analysis-Framework-for-TVM){:target='_blank'}, which Microsoft was kind enough to open-source.
 - **June 2019:** I gave a talk at ISCA/FCRC in Phoenix as part of our [TVM]({{ site.data.references.tvm }}){:target='_blank'} tutorial. Here are some materials:
   + [A clip of my talk](https://youtu.be/MxhQN7OEU7E){:target='_blank'}

@@ -11,7 +11,7 @@ Education
 Paul G. Allen Center for Computer Science & Engineering
 {: .resume-subtitle}
 
-Pursuing Ph.D. since fall of 2018. Advised by [Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze){:target="_blank"} and [Zach Tatlock](https://homes.cs.washington.edu/~ztatlock/){:target='_blank'}.
+Pursuing Ph.D. since fall of 2018. Advised by [Luis Ceze]({{ site.data.references.luis }}){:target='_blank'} and [Zach Tatlock]({{ site.data.references.zach}} ){:target='_blank'}.
 {: .resume-paragraph}
 
 [Penn State](https://shc.psu.edu){:target="_blank"}

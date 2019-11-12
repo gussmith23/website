@@ -13,7 +13,7 @@ layout: home
 Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures.
 School's website is [`cs.washington.edu`](https://cs.washington.edu), and I am `gussmith` at this address.
 
-**Longer version:** I am pursuing my PhD at the University of Washington's Paul G. Allen School of Computer Science &amp; Engineering in Seattle. My advisors are [Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze){:target='_blank'} and [Zach Tatlock](https://homes.cs.washington.edu/~ztatlock/){:target='_blank'}.
+**Longer version:** I am pursuing my PhD at the University of Washington's Paul G. Allen School of Computer Science &amp; Engineering in Seattle. My advisors are [Luis Ceze]({{ site.data.references.luis }}){:target='_blank'} and [Zach Tatlock]({{ site.data.references.zach}} ){:target='_blank'}.
 
 I am currently working on [bringing custom datatype support](https://github.com/gussmith23/tvm/commit/cfefc6d394bc73c1d3f9b61445bfabb44cb2d291) into the [TVM stack](https://tvm.ai/).
 Generally, my research interests lie in the domains of computer architecture and programming languages. 

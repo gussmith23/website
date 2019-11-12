@@ -3,6 +3,7 @@ layout: default
 title: Timeline
 ---
 
+- **November 2019:** I'm happy to say I'm now coadvised by [Zach Tatlock]({{ site.data.references.zach }}){:target='_blank'}! I hope to work with Zach and Luis together to explore how we can use programming languages and compilers to improve the hardware design process.
 - **November 2019:** I presented a poster at the University of Virginia on my datatypes work at the annual review for the [CRISP center]({{ site.data.references.crisp }}){:target='_blank'}, from whom I get my funding.
   + [My poster](assets/2019-11-05-crisp-bring-your-own-datatypes-poster.pdf){:target='_blank'}
 - **October 2019:** I helped out the [Relay]({{ site.data.references.relay }}){:target='_blank'} group with a hackathon for the [ADA center]({{ site.data.references.ada }}){:target='_blank'} meeting in Ann Arbor.

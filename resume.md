@@ -27,6 +27,14 @@ Graduated with combined M.S./B.S. in Computer Science and Engineering in spring 
 Research Projects
 {: .resume-heading}
 
+[Real-time Machine Learning](https://www.darpa.mil/news-events/2019-03-21){:target='_blank'}
+{: .resume-subheading}
+UW SAMPL Lab
+{: .resume-subtitle}
+
+In 2019, we will begin working on a project to automatically generate machine learning accelerators from machine learning software workloads expressed in [Relay]({{ site.data.references.relay }}){:target='_blank'}.
+{: .resume-paragraph}
+
 [Bring Your Own Datatypes](){:target="_blank"}
 {: .resume-subheading}
 UW SAMPL Lab

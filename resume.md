@@ -11,7 +11,7 @@ Education
 Paul G. Allen Center for Computer Science & Engineering
 {: .resume-subtitle}
 
-Pursuing Ph.D. since fall of 2018. Advised by [Luis Ceze]({{ site.data.references.luis }}){:target='_blank'} and [Zach Tatlock]({{ site.data.references.zach}} ){:target='_blank'}.
+Pursuing Ph.D. since fall of 2018. Advised by [Luis Ceze]({{ site.data.references.luis }}){:target='_blank'} and [Zach Tatlock]({{ site.data.references.zach}} ){:target='_blank'}. I work at the intersection of computer architecture and programming languages, exploring how we can use concepts from programming languages to make hardware design easier and the software/hardware boundary more seamless.
 {: .resume-paragraph}
 
 [Penn State](https://shc.psu.edu){:target="_blank"}

@@ -3,7 +3,7 @@ layout: default
 title: Timeline
 ---
 
-- **November 2019:** I presented to my research group, [SAMPL]({{site.data.references.sampl}}){:target='_blank'} about my internship at Microsoft, where I developed a program analysis framework in [Relay]({{site.data.references.relay}}){:target='_blank'}. Look out for my lightning talk at this year's [TVM conference]({{site.data.references.2019tvmconf}}){:target='_blank'} where I'll also be talking about program analysis in Relay.
+- **November 2019:** I presented to my research group, [SAMPL]({{site.data.references.sampl}}){:target='_blank'}, about my summer internship at Microsoft, where I developed a program analysis framework in [Relay]({{site.data.references.relay}}){:target='_blank'}. Look out for my lightning talk at this year's [TVM conference]({{site.data.references.2019tvmconf}}){:target='_blank'}k where I'll also be talking about program analysis in Relay.
   + [My slides](assets/2019-11-25-internship-report/2019-11-25-internship-report-with-notes.pdf){:target='_blank'} ([without notes](assets/2019-11-25-internship-report/2019-11-25-internship-report.pdf){:target='_blank'}, [keynote file](assets/2019-11-25-internship-report/2019-11-25-internship-report.key){:target='_blank'})
 - **November 2019:** I'm happy to say I'm now coadvised by [Zach Tatlock]({{ site.data.references.zach }}){:target='_blank'}! I hope to work with Zach and Luis together to explore how we can use programming languages and compilers to improve the hardware design process.
 - **November 2019:** I presented a poster at the University of Virginia on my datatypes work at the annual review for the [CRISP center]({{ site.data.references.crisp }}){:target='_blank'}, from whom I get my funding.

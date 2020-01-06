@@ -43,6 +43,15 @@ UW SAMPL Lab
 I have been working on allowing for the exploration of new, nontraditional datatypes (i.e., alternatives to IEEE 754 floating point) in [TVM](https://tvm.ai){:target="_blank"}, a deep learning compiler.
 {: .resume-paragraph}
 
+[Well Rounded](https://cse512-19s.github.io/FP-Well-Rounded/){:target='_blank'}
+{: .resume-subheading}
+
+[CSE 512 19sp](https://courses.cs.washington.edu/courses/cse512/19sp/){:target='_blank'} (Data Viz with Jeff Heer) Final Project
+{: .resume-subtitle}
+
+In this final project, we visualized the posit datatype, aiming to convey how posits spread themselves through the space of real numbers. This was completed as a final project for Jeff Heer's Data Visualization course in 19sp at the University of Washington. The project was inspired by my work in the datatypes space, and was completed with some of my architecture colleagues in my cohort.
+{: .resume-paragraph}
+
 [Static Analysis for Processing in Memory Accelerator Design](https://honors.libraries.psu.edu/catalog/5137hfs5022){:target="_blank"}
 {: .resume-subheading}
 PSU Microsystems Design Lab

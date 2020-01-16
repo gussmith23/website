@@ -3,6 +3,19 @@ layout: default
 title: Timeline
 ---
 
+- **January 2020:** I also started off this quarter by presenting on the [MLPerf Inference](https://arxiv.org/abs/1911.02549){:target='_blank'} paper at a [SAMPL]({{site.data.references.sampl}}){:target='_blank'} meeting.
+- **January 2020:** Happy New Year!! I started off the new year (and new quarter) by giving my first whiteboard talk.
+                    I talked about RTML, the new DARPA project which we are working on.
+                    I laid out some of my early ideas so that I could get early-stage feedback.
+                    The whiteboard talk was also meant to encourage similar, more casual talks in the lab, rather than the formal talks we may feel expected to deliver.
+  + The images of the whiteboard (in order) are here:
+    [1](/assets/2020-01-15-arch-lunch-whiteboard-talk/1.jpg){:target='_blank'}
+    [2](/assets/2020-01-15-arch-lunch-whiteboard-talk/2.jpg){:target='_blank'}
+    [3](/assets/2020-01-15-arch-lunch-whiteboard-talk/3.jpg){:target='_blank'}
+    [4](/assets/2020-01-15-arch-lunch-whiteboard-talk/4.jpg){:target='_blank'}
+    [5](/assets/2020-01-15-arch-lunch-whiteboard-talk/5.jpg){:target='_blank'}
+    [6](/assets/2020-01-15-arch-lunch-whiteboard-talk/6.jpg){:target='_blank'}
+    [7](/assets/2020-01-15-arch-lunch-whiteboard-talk/7.jpg){:target='_blank'}
 - **December 2019:** My lab, [SAMPL]({{site.data.references.sampl}}){:target='_blank'}, gave series of talks at the [Allen School Colloquium](https://www.cs.washington.edu/events/colloquia){:target='_blank'}. I delivered a new talk which I titled _The Datatypes Zoo,_ about the wild world of datatypes which I've been introduced to over the past year.
   + [A video of my talk](https://youtu.be/BqPloXyeb7o?t=2016){:target='_blank'}
   + [My slides](assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-with-notes.pdf){:target='_blank'} ([without notes](assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-without-notes.pdf){:target='_blank'}, [keynote file](assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium.key){:target='_blank'})

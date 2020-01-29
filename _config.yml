@@ -63,5 +63,5 @@ collections:
   # change (e.g. my description of a trip I took.)
   # Think of "notes" as writing which is not linked to a date and is likely to
   # change (e.g. a list of my favorite episodes of a podcast)
-  notes:
+  misc:
     output: true

@@ -65,5 +65,7 @@ collections:
   # change (e.g. a list of my favorite episodes of a podcast)
   misc:
     output: true
+  writing:
+    output: true
   research:
     output: true

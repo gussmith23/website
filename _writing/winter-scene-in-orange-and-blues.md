@@ -2,8 +2,7 @@
 layout: post
 title: Winter Scene in Orange and Blues
 permalink: /winter-scene-in-orange-and-blues
-last_modified_at:   2020-02-01 02:13:00 -0800
-note: No date. Written between 2016 and 2018.
+date: 2018-09-21
 ---
 
 *The small house is surrounded by other small houses, in a suburb on the

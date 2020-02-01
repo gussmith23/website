@@ -4,6 +4,7 @@ title: Writing
 order: 2
 ---
 
-{% for writing_post in site.writing %}
+{% assign sorted = (site.writing | sort: 'date') | reverse %}
+{% for writing_post in sorted %}
   - [{{writing_post.title}}]({{writing_post.url}})
 {% endfor %}

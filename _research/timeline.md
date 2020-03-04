@@ -3,6 +3,11 @@ layout: default
 title: Timeline
 ---
 
+- **February 2020:** I completed my quals exam!
+  + [Post-quals smiles :)](/assets/2020-02-24-quals-talk/post-quals.jpg){:target='_blank'}
+  + [My slides](/assets/2020-02-24-quals-talk/2020-02-24-quals-talk-with-notes.pdf){:target='_blank'}
+    ([without notes](/assets/2020-02-24-quals-talk/2020-02-24-quals-talk-without-notes.pdf){:target='_blank'},
+    keynote file too large to upload)
 - **January 2020:** I also started off this quarter by presenting on the [MLPerf Inference](https://arxiv.org/abs/1911.02549){:target='_blank'} paper at a [SAMPL]({{site.data.references.sampl}}){:target='_blank'} meeting.
 - **January 2020:** Happy New Year!! I started off the new year (and new quarter) by giving my first whiteboard talk.
                     I talked about RTML, the new DARPA project which we are working on.

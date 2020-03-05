@@ -5,9 +5,9 @@
 layout: home
 ---
 
-*Last updated November 11th, 2019.*
+*Last updated March 4th, 2020.*
 
-![Gus Smith](/assets/profile-pictures/2019-09-15.jpg)
+![Gus Smith](/assets/profile-pictures/2020-03-04.jpg)
 
 **Short version:**
 Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures.

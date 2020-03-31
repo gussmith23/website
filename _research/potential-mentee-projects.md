@@ -13,8 +13,10 @@ While at Penn State, I worked with a team of motivated undergrads:
 - Christopher Pratt (pursuing Bachelor's at PSU as of 2020)
 - [David de Matheu](https://www.linkedin.com/in/ddematheu/) (working at Microsoft as of 2020)
 - [Tom Kawchak](https://www.linkedin.com/in/tkawchak/) (working at Microsoft as of 2020)
+
 We worked on developing a haptic glove and computer vision system for the visually impaired.
-Working with this team remains one of my fondest research memories, and it's been awesome to see us all go on to great things.
+Working with this team remains one of my fondest research memories, and it's been awesome to see us all go on to do great things!
+(Not to mention, it's been cool to have some of them also move to Seattle!)
 
 I am always looking for students to mentor---it's one of the best parts of my job!
 If you're interested in architecture and/or programming languages, take a look at the project ideas below and feel free to reach out to me (`gussmith` at `cs` dot `washington` etc.).

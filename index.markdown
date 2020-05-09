@@ -5,13 +5,18 @@
 layout: home
 ---
 
-*Last updated March 4th, 2020.*
+*Last updated May 9th, 2020.*
 
 ![Gus Smith](/assets/profile-pictures/2020-03-04.jpg)
 
+**Contact:** [gussmith@cs.washington.edu](mailto:gussmith@cs.washington.edu)
+
 **Short version:**
-Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures.
-School's website is [`cs.washington.edu`](https://cs.washington.edu), and I am `gussmith` at this address.
+PhD student at the University of Washington's Paul G. Allen School of Computer Science &amp; Engineering in Seattle,
+  working with [Luis Ceze]({{ site.data.references.luis }}){:target='_blank'} and [Zach Tatlock]({{ site.data.references.zach}} ){:target='_blank'}.
+I'm interested in applying knowledge in programming languages to
+  wacky, nontraditional, heterogeneous architectures.
+
 
 **Longer version:** I am pursuing my PhD at the University of Washington's Paul G. Allen School of Computer Science &amp; Engineering in Seattle. My advisors are [Luis Ceze]({{ site.data.references.luis }}){:target='_blank'} and [Zach Tatlock]({{ site.data.references.zach}} ){:target='_blank'}.
 

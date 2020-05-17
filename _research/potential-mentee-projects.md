@@ -6,6 +6,15 @@ last_modified_at: Tue Mar 31 09:00:43 PDT 2020
 date: Tue Mar 31 09:00:43 PDT 2020
 ---
 
+I am always looking for students to mentor---it's one of the best parts of my job!
+If you're interested in architecture and/or programming languages,
+  take a look at the project ideas below.
+If any sound cool
+  (or if you have ideas of your own)
+  feel free to reach out to me at
+  [{{site.data.references.email}}](mailto:{{site.data.references.email}}).
+
+
 I've been lucky to mentor many students in the past.
 
 While at Penn State, I worked with a team of motivated undergrads:
@@ -18,8 +27,6 @@ We worked on developing a haptic glove and computer vision system for the visual
 Working with this team remains one of my fondest research memories, and it's been awesome to see us all go on to do great things!
 (Not to mention, it's been cool to have some of them also move to Seattle!)
 
-I am always looking for students to mentor---it's one of the best parts of my job!
-If you're interested in architecture and/or programming languages, take a look at the project ideas below and feel free to reach out to me (`gussmith` at `cs` dot `washington` etc.).
 
 ## An Exploration of Custom Datatypes in Deep Learning
 

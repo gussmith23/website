@@ -11,7 +11,6 @@ layout: home
 
 **Contact:** [{{site.data.references.email}}](mailto:{{site.data.references.email}})
 
-**Short version:**
 I'm a PhD student at
   the University of Washington's
   Paul G. Allen School of Computer Science &amp; Engineering
@@ -26,8 +25,11 @@ My goal is to help architects craft
 I see
   computer architecture and programming languages
   as two sides of the same coin,
-  and my research seeks to bridge the gaps
+  and my research seeks to bridge the gap
   between the fields.
+(If you're an undergrad/master's student
+  looking for a project and this resonates with you,
+  check out [this page](/potential-mentee-projects)!)
 
 I'm currently working on
   [Glenside](https://github.com/gussmith23/glenside),

@@ -9,7 +9,7 @@ layout: home
 
 ![Gus Smith](/assets/profile-pictures/2020-03-04.jpg)
 
-**Contact:** [gussmith@cs.washington.edu](mailto:gussmith@cs.washington.edu)
+**Contact:** [{{site.data.references.email}}](mailto:{{site.data.references.email}})
 
 **Short version:**
 I'm a PhD student at

@@ -56,7 +56,7 @@ In the summer of 2019,
   [static analysis of TVM/Relay programs](https://github.com/microsoft/Analysis-Framework-for-TVM)
   as part of Azure's AI and Advanced Architectures team.
 I've also interned a bunch at Google:
-  [implementing the Bluetooth protocol RFCOMM](https://fuchsia.googlesource.com/garnet/+/85cd568e67d8113f3206af9af9060764abef7f35/drivers/bluetooth/lib/rfcomm/)
+  [implementing the Bluetooth protocol RFCOMM](https://fuchsia.googlesource.com/fuchsia/+/85cd568e67d8113f3206af9af9060764abef7f35)
   for Fuchsia
   with Marie Janssen,
   [improving the Chrome Remote Desktop experience on Raspberry Pis](https://chromium.googlesource.com/chromium/src/+/d18e0892dcabb921e226354f0c50c95a8b15f4b1)

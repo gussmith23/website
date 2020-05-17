@@ -62,9 +62,7 @@ I've also interned a bunch at Google:
   [improving the Chrome Remote Desktop experience on Raspberry Pis](https://chromium.googlesource.com/chromium/src/+/d18e0892dcabb921e226354f0c50c95a8b15f4b1)
   with Scott Nichols,
   and working with Mona El Mahdy on 
-  [profiling Android apps.](https://android.googlesource.com
-  /platform/tools/base/+
-  /efff78f6cf0930f9d2949ac75007ea52ac983db8)
+  [profiling Android apps.](https://android.googlesource.com/platform/tools/base/+/efff78f6cf0930f9d2949ac75007ea52ac983db8)
 
 In my free time,
   I [write](/writing) fiction and poetry,

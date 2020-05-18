@@ -12,6 +12,10 @@ pictures:
   - path: /assets/personal-pictures/2020-02-24-post-quals.jpg
     caption: <a href="{{site.data.references.zach}}" target='_blank'>Zach</a>, myself, and <a href="{{site.data.references.luis}}" target='_blank'>Luis</a> after my qualifying presentation!
     date: February 24th, 2020
+  - path: /assets/personal-pictures/2018-05-vijay-gus-france.jpg
+    alt: Vijay, Gus, and France
+    caption: My Master's coadvisor <a href="{{site.data.references.vijay}}" target='_blank'>Vijay</a>, myself, and former NSF director France Córdova at my graduation from Penn State.
+    date: May 2018
 ---
 {% for picture in page.pictures %}
   <figure>

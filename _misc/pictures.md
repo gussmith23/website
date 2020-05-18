@@ -99,7 +99,7 @@ pictures:
     alt: Too old for caps
     caption: That same night, we discover we can't play caps like we used to.
 
-  - date: September 9th--14th, 2018
+  - date: September 9th&ndash;14th, 2018
     path: /assets/personal-pictures/2018-09-09-roadtrip-to-seattle.jpg
     alt: Seattle roadtrip
     caption: Road tripping to Seattle!

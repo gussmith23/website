@@ -17,7 +17,7 @@ pictures:
   <figure>
     <img src="{{picture.path}}" alt="{{picture.alt}}" style="width:100%">
     <figcaption>
-      {% if picture.date %}<b>{{picture.date}}</b>{% endif %}
+      {% if picture.date %}<b>{{picture.date}}:</b>{% endif %}
       {{picture.caption}}
     </figcaption> 
   </figure>

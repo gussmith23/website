@@ -61,7 +61,7 @@ pictures:
 
   - path: /assets/personal-pictures/2019-09-brennan-nyc.jpg
     alt: Brennan and sleeping Gus
-    caption: While back on the east coast, I visited New York. My friend Brennan put me up, and after driving all the way from Virginia, I was out like a light.
+    caption: While back on the east coast, I visited New York. My friend Brennan put me up, and after driving all the way from Mike's wedding in Virginia, I was out like a light.
 
   - path: /assets/personal-pictures/2019-09-michaela-sheetz.jpg
     alt: Michaela at Sheetz

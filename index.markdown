@@ -64,6 +64,18 @@ I've also interned a bunch at Google:
   and working with Mona El Mahdy on 
   [profiling Android apps.](https://android.googlesource.com/platform/tools/base/+/efff78f6cf0930f9d2949ac75007ea52ac983db8)
 
+I'm lucky to have called Pennsylvania home
+  throughout all the previous chapters of my life,
+  having lived there until 2018
+  when I started a new chapter in Seattle.
+I grew up in Mountain Top
+  (in the Wyoming Valley, outside of Wilkes-Barre)
+  and have traveled to/lived in all corners of the state.
+I did my BS/MS
+  at Penn State
+  with [Vijay Narayanan]({{site.data.references.vijay}}){:target='_blank'}
+  and [Jack Sampson]({{site.data.references.jack}}){:target='_blank'}.
+
 In my free time,
   I [write](/writing) fiction and poetry,
   [program](https://github.com/gussmith23),

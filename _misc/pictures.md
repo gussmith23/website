@@ -81,6 +81,10 @@ pictures:
     alt: Michaela and Gus
     caption: Michaela took me to Kansas City for her brother's wedding!
 
+  - path: /assets/personal-pictures/2019-09-michaela-and-gus-brocks-wedding-2.jpg
+    alt: Michaela and Gus
+    caption: Another great one from the wedding!
+
   - date: August 2019
     path: /assets/personal-pictures/2019-08-end-of-surf-day.jpg
     alt: End of the surf day in Manotoloking

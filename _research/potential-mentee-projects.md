@@ -30,9 +30,47 @@ Working with this team remains one of my fondest research memories, and it's bee
 
 ## An Exploration of Custom Datatypes in Deep Learning
 
-Using the Bring Your Own Datatypes framework which I built on top of TVM, conduct a thorough investigation of how custom datatypes (`bfloat16`, posits, any other wacky types you find) affect deep learning workloads.
+**One-liner:**
+Using a framework
+  which I built on top of
+  the deep learning compiler [TVM]({{site.data.references.tvm}}){:target='_blank'},
+  conduct a thorough investigation
+  of how custom numeric datatypes
+  (alternatives to `float` and `double`)
+  affect deep learning workloads.
+
+From fall 2018 to spring 2020,
+  I worked on [TVM]({{site.data.references.tvm}}){:target='_blank'},
+  which is a compiler for deep learning workloads.
+TVM takes in a high-level deep learning program
+  (written, e.g., in Tensorflow),
+  converts the program
+  to TVM's own internal representation,
+  does optimizations over the program,
+  and compiles it down to machine code.
+Onto TVM, I added a framework
+  that allows people to explore new
+  datatypes---alternatives to the 32-bit `float` and 64-bit `double` types
+  that we are so used to.
+([`bfloat16`](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format){:target='_blank'} and [posits](https://posithub.org/docs/BeatingFloatingPoint.pdf){:target='_blank'} are great examples!)
+I ran a small experiment
+  with this new framework,
+  in which I trained models in `float32`
+  and then converted their trained weights
+  to various new datatypes
+  to examine whether they'd retain their trained accuracy.
+(It's okay if you don't understand any of this jargon!)
+
+I moved on to a new project
+  after finishing my qualifying exams,
+  and have been looking for someone
+  who could lead an effort to turn this into a paper!
+
 This could mean:
 - Figuring out how to train with custom datatypes
 - Developing a "quantization" scheme to quantize from `float32` to smaller custom datatypes (e.g. 8-bit posits)
 - Exploring whether using different datatypes in different layers of a workload would ever be beneficial
 - Developing a system for automatically choosing datatypes for a workload (based on power, performance, model accuracy targets)
+
+No specific experience necessary.
+Familiarity with C++ and Python would be helpful!

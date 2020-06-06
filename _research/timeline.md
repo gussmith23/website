@@ -3,6 +3,14 @@ layout: default
 title: Timeline
 ---
 
+- **May 2020:**
+  I gave a talk for [PLSE]({{site.data.references.plse}}){:target='_blank'}
+    about my new project, Glenside.
+  I also delivered a very similar talk for the Cornell Architecture and PL groups,
+    as part of a series of talks
+    organized by [Rachit Nigam]({{site.data.references.rachit}}){:target='_blank'}.
+  + [Slides (without notes)](/assets/2020-05-glenside-talks/2020-05-27-cornell-talk-glenside-without-notes.pdf){:target='_blank'}
+
 - **February 2020:** My first acceptance!
   My submission,
   ["Enumerating Hardware-Software Splits with Program Rewriting"](https://arxiv.org/abs/2003.00290),

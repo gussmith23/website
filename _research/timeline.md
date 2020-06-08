@@ -22,8 +22,7 @@ title: Timeline
   ["Enumerating Hardware-Software Splits with Program Rewriting"](https://arxiv.org/abs/2003.00290),
   was accepted to the Young Architects Workshop at ASPLOS2020.
   The 2-page paper describes my upcoming work.
-  Due to the COVID-19 situation, ASPLOS2020 was canceled, which is a bummer.
-  Still proud of the acceptance!
+  (Due to the COVID-19 situation, ASPLOS2020 was canceled.)
 
 - **February 2020:** I completed my quals exam!
   + [Post-quals smiles :)](/assets/2020-02-24-quals-talk/post-quals.jpg){:target='_blank'}

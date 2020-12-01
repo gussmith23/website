@@ -8,20 +8,27 @@
     margin-top: -14px;
     font-size: 1.1em;
     font-weight: 200;
+    margin-left: 0.4em;
 }
 
 // School/company/project name heading
 .resume-subheading {
     font-size: 1.3em;
     font-weight: 400;
-    margin-top: -10px;
+    margin-top: -0.2em;
+    margin-left: 0.3em;
 }
 
 // "Education", "Research Projects", etc
 .resume-heading {
     font-size: 1.6em;
     font-weight: 350;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
 }
+
 .resume-paragraph {
     margin-top: -13px;
+    margin-left: 1em;
+    text-align: justify;
 }

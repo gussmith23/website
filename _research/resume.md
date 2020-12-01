@@ -32,12 +32,23 @@ Graduated with combined M.S./B.S. in Computer Science and Engineering in spring 
 Research Projects
 {: .resume-heading}
 
-[Real-time Machine Learning](https://www.darpa.mil/news-events/2019-03-21){:target='_blank'}
+[Glenside]({{site.data.references.glenside}}){:target="_blank"}
 {: .resume-subheading}
-UW SAMPL Lab
+UW SAMPL Lab/[Real-time Machine Learning](https://www.darpa.mil/news-events/2019-03-21){:target='_blank'} 
 {: .resume-subtitle}
 
-In 2019, we will begin working on a project to automatically generate machine learning accelerators from machine learning software workloads expressed in [Relay]({{ site.data.references.relay }}){:target='_blank'}.
+Since the start of 2020,
+  I have been working on software–hardware codesign 
+  for machine learning accelerators.
+My goal is to explore what happens
+  when we treat hardware and compiler design
+  as a program rewriting problem,
+  allowing us to explore
+  software and hardware transformations
+  simultaneously.
+See
+  [the project's GitHub page]({{site.data.references.glenside}}){:target="_blank"}
+  for more information.
 {: .resume-paragraph}
 
 [Bring Your Own Datatypes](){:target="_blank"}

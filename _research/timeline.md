@@ -3,11 +3,15 @@ layout: default
 title: Timeline
 ---
 - **May 2020:**
-  I wrote a [blog post]({{site.data.references.datatypes-blog-post}}){:target='_blank'}
+  I wrote a [blog post]({{site.data.references.bring-your-own-datatypes-blog-post}}){:target='_blank'}
     about my work on the [Bring Your Own Datatypes]({{site.data.references.bring-your-own-datatypes}}){:target='_blank'}
     framework.
   It is a good overview of what the framework does,
     for those who are already (even vaguely) familiar with TVM.
+  (Update, September 2020: [Andrew]({{site.data.references.andrew}}){:target='_blank'}
+    updated the blog post
+    with the work he's done
+    on the framework)
 
 - **May 2020:**
   I gave a talk for [PLSE]({{site.data.references.plse}}){:target='_blank'}

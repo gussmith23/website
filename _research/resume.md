@@ -51,7 +51,7 @@ See
   for more information.
 {: .resume-paragraph}
 
-[Bring Your Own Datatypes](){:target="_blank"}
+[Bring Your Own Datatypes]({{site.data.references.bring-your-own-datatypes-blog-post}}){:target="_blank"}
 {: .resume-subheading}
 UW SAMPL Lab
 {: .resume-subtitle}

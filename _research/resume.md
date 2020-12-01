@@ -3,6 +3,11 @@ layout: default
 title: Résumé
 ---
 
+<!-- Remove margin from first heading -->
+<style>
+.resume-heading:first-of-type { margin-top: 0 !important; }
+</style>
+
 Education
 {: .resume-heading}
 

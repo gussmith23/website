@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title: Projects for Potential Mentees
 permalink: /potential-mentee-projects
-last_modified_at: Tue Mar 31 09:00:43 PDT 2020
-date: Tue Mar 31 09:00:43 PDT 2020
 ---
+
+*Last updated December 7th, 2020.*
 
 I am always looking for students to mentor---it's one of the best parts of my job!
 If you're interested in architecture and/or programming languages,
@@ -14,9 +14,13 @@ If any sound cool
   feel free to reach out to me at
   [{{site.data.references.email}}](mailto:{{site.data.references.email}}).
 
-
-I've been lucky to mentor many students in the past.
-
+I'm currently working with
+  [Andrew Liu]({{site.data.references.andrew}}){:target='_blank'},
+  who helped me wrap up
+  [Bring Your Own Datatypes]({{site.data.references.bring-your-own-datatypes-blog-post}}){:target="_blank"},
+  and is now contributing heavily to
+  [Glenside](https://github.com/gussmith23/glenside).
+I've been lucky to mentor many other students in the past.
 While at Penn State, I worked with a team of motivated undergrads:
 - Nelson Troncoso Aldas (pursuing PhD at PSU as of 2020)
 - Christopher Pratt (pursuing Bachelor's at PSU as of 2020)
@@ -27,6 +31,12 @@ We worked on developing a haptic glove and computer vision system for the visual
 Working with this team remains one of my fondest research memories, and it's been awesome to see us all go on to do great things!
 (Not to mention, it's been cool to have some of them also move to Seattle!)
 
+## Anything related to Glenside
+Read the [Glenside README](https://github.com/gussmith23/glenside/)
+  and check out the [Glenside issues list](https://github.com/gussmith23/glenside/issues)
+  to see if there's anything you want to contribute to. 
+This is currently my main project,
+  so you can also just reach out to me for potential ideas!
 
 ## An Exploration of Custom Datatypes in Deep Learning
 

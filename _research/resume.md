@@ -8,6 +8,8 @@ title: Résumé
 .resume-heading:first-of-type { margin-top: 0 !important; }
 </style>
 
+# Gus Henry Smith ([{{site.data.references.email}}](mailto:{{site.data.references.email}}))
+
 Education
 {: .resume-heading}
 

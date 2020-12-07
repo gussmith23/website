@@ -56,7 +56,7 @@ See
 UW SAMPL Lab
 {: .resume-subtitle}
 
-I have been working on allowing for the exploration of new, nontraditional datatypes (i.e., alternatives to IEEE 754 floating point) in [TVM](https://tvm.ai){:target="_blank"}, a deep learning compiler.
+From 2018–2020, I worked on a project enabling the exploration of new, nontraditional datatypes (i.e., alternatives to IEEE 754 floating point) in [TVM](https://tvm.ai){:target="_blank"}, a deep learning compiler. I presented this work for my qualifying project presentation at UW in the winter of 2020.
 {: .resume-paragraph}
 
 [Well Rounded](https://cse512-19s.github.io/FP-Well-Rounded/){:target='_blank'}

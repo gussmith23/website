@@ -5,7 +5,7 @@
 layout: home
 ---
 
-*Last updated May 16th, 2020.*
+*Last updated Dec 7th, 2020.*
 
 ![Gus Smith](/assets/profile-pictures/2020-03-04.jpg)
 

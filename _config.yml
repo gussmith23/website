@@ -69,3 +69,5 @@ collections:
     output: true
   research:
     output: true
+  research_journal:
+    output: true

@@ -32,3 +32,22 @@
     margin-left: 1em;
     text-align: justify;
 }
+
+table.post-list {
+    border: 0px solid black;
+    tr {
+        background-color: transparent;
+        :nth-child(1) {
+            text-align: right;
+            padding-right: 1em;
+        }
+
+        td {
+            padding-bottom: .6em;
+        }
+    }
+    * {
+        padding: 0;
+        border: 0px solid black;
+    }
+}

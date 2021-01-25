@@ -4,13 +4,13 @@ title: Research Journal
 permalink: /research-journal
 ---
 In 2021, I committed to trying to write a short research journal entry every week. Here are the results.
-<ul style="list-style: none">
+<table class="post-list">
   {% for post in site.research_journal %}
-    <li>
+    <tr>
       {% assign filename = post.path | split: "/" | last %}
       {% if filename != "index.md" %}
-        {{ post.date | date: "%B %d %Y" }} <a href="{{ post.url }}">{{ post.title }}</a>
+        <td>{{ post.date | date: "%D" }}</td> <td><a href="{{ post.url }}">{{ post.title }}</a></td>
       {% endif %}
-    </li>
+    </tr>
   {% endfor %}
-</ul>
+</table>

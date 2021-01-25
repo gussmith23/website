@@ -5,7 +5,8 @@ permalink: /research-journal
 ---
 In 2021, I committed to trying to write a short research journal entry every week. Here are the results.
 <table class="post-list">
-  {% for post in site.research_journal %}
+  {% assign posts = site.research_journal | sort: 'date' | reverse %}
+  {% for post in posts %}
     <tr>
       {% assign filename = post.path | split: "/" | last %}
       {% if filename != "index.md" %}

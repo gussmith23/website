@@ -61,6 +61,4 @@ entries:
 </figure>
 {% endfor %}
 
-{{date}}
-{{bread-entry}}
 {% endfor %}

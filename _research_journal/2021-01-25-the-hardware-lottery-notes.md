@@ -5,6 +5,8 @@ title: Notes on "The Hardware Lottery"
 
 <!-- markdownlint-disable MD036 -->
 *Moved from [my research journal.]({%link _research_journal/2021-01-24-2021-week-3-research-journal.md%})*
+
+*[My annotated PDF.]({% link assets/2020-hooker-the-hardware-lottery.pdf%})*
 <!-- markdownlint-enable MD036 -->
 
 We had

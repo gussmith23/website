@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 2021 Week 3 Research Journal
-date: 2021-01-24
 ---
 
 One of my goals this week 

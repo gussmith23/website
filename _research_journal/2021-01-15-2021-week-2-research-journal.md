@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Initial Research Journal 
-date: 2021-01-15
+title: "2021 Week 2 Research Journal" 
 ---
 
 A few things I want to write about at some point:

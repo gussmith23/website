@@ -248,7 +248,7 @@ The hardware
   a single representation.
 
 This deserves
-  it's own post.
+  its own post.
 I have lots of thoughts
   on the matter,
   but I imagine

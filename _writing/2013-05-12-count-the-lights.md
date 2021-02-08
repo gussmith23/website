@@ -63,6 +63,8 @@ It's
 ---
 ---
 
+<br />
+
 It must have been fall, as we were deep into the football season. As is usual around here, the remnants of summer lingered late---if not in the weather, than in our perception of it, and I suspect that we, in coats and hats, were still driving with the windows down.
 
 As we passed in front of the bleachers, a voice from the student section called my name---someone I used to know, used to go to school with, probably. They called my name, and then, though likely no one else knew me, the entire section was calling my name, or what they thought my name was, or what they thought everyone else was yelling, and soon enough whatever harmony was once had was lost. Like some inanimate echo machine made of so many animate parts. She looked back. We kept walking.

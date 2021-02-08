@@ -123,6 +123,8 @@ I turned to the railing. "HEY!" I yelled. He smiled. "You got a date to semi?"
 
 ---
 
+<br />
+
 Our team ended up getting crushed that night, but no one was really watching. By the beginning of the fourth quarter, she and I were leaving the stands. She’d had enough of them, I could tell. I didn’t blame her.
 
 "GAMEDAY!" I heard, from the crowd behind me. I saw the downcast faces in the bleachers turn to disgust, as they searched for the source. I already knew who it was was; by her sigh, I guessed she did too. "Gameday, guys! Let’s watch some football!" he yelled, as he caught up to us. "But seriously, where you guys going?" he asked.
@@ -135,6 +137,8 @@ It was probably only about nine o’clock on a Friday night, if we were leaving 
 
 ---
 
+<br />
+
 We were on the road, having broken free of the post-game traffic jam in the school’s parking lot. Along the road we could see the outlines of kids walking back to the school from the McDonald’s on the corner, whose sign shone bright above the intersection below. The only other light was the radio masts, far down the road, on the hillside ahead. You could see them from anywhere, though.
 
 The road we were on cut the circular basin of my town like a chord. The hillside ahead of us circles around to the left and right, meeting up behind us; though we took a right out of the school’s parking lot, taking a left would have us facing the same hillside. On the hillside ahead sits the town’s radio masts; by far, the town’s only distinguishing characteristic. From the flat lands within the basin, you could always see them. That late at night, though, in late fall, we wouldn't have been able to see the towers themselves---just their lights.
@@ -146,6 +150,8 @@ He was a walking history book of our memories together, not just he and I but me
 He talked at the back of her head, and she nodded and laughed when appropriate, but she and I knew the stories didn’t have the same value. He never really understood that, with anyone. She reached for my hand, held it. He kept talking. There was no urgency in her grip, or in his voice, or in my pace across town.
 
 ---
+
+<br />
 
 Soon enough we’d reached the pass through the hillside, at the far end of town. The radio masts lay dead ahead, on top of the hills through which the pass cuts.
 

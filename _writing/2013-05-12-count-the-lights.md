@@ -163,7 +163,7 @@ The masts hung above us. He’d stopped talking, and we all stared at the red li
 
 "When was the last time you counted the lights?" I asked him, without thinking.
 
-"It’s been a couple of months," he answered.A
+"It’s been a couple of months," he answered.
 
 "Yeah, same here," I replied.
 
@@ -183,7 +183,7 @@ I thought for a bit. I really did think, too. "We can’t answer that question,"
 
 Silence. She looked confused, like we were pulling something over on her.
 
-"We aren’t able to answer that question," I added. It had significance in my head, but felt feeble on my tongue.
+"We aren’t *able* to answer that question," I added. It had significance in my head, but felt feeble on my tongue.
 
 Silence. A long silence. She felt that he’d become quiet in the back seat.
 
@@ -226,7 +226,7 @@ Previous to this section of road, the road winds from left to right. But here, i
 
 "I only take your word for it because I really don’t care. I don’t know why I would," she replied. Nonetheless, she was curious; I watched her dip her head a bit lower, to try and see the tops of the towers in the mirror. "Alright, there, I see the sixth light on each."
 
-My heart skipped a beat, or half of one. I knew it couldn’t not work; there was nothing to "work" in the first place. This is how it’s always been. I knew it’d be. Regardless, it catches you - every single time. I let go of her hand, and put both hands on the wheel.
+My heart skipped a beat, or half of one. I knew it couldn’t not work; there was nothing to "work" in the first place. This is how it’s always been. I knew it’d be. Regardless, it catches you, every single time. I let go of her hand, and put both hands on the wheel.
 
 "There it is," I heard him say to himself, in the seat behind me. She didn’t hear him.  She turned around to him in the backseat. He looked solemn; where previously he’d been sticking his head between the two front seats, now he was stretching across the backseat, head against the window.
 

@@ -37,7 +37,7 @@ Rereading it,
   though,
   I realize
   in worrying
-  that I
+  that
   I was being
   uncharitable
   and unsympathetic.

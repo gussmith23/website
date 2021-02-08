@@ -100,7 +100,7 @@ I hadn’t looked at the scoreboard once since we’d gotten there. Force of hab
 
 "Fuck! You see what you do?"
 
-Sitting to my right, she turned towards me with a face that seemed to ask, "is he serious?"
+Sitting to my right, she turned towards me with a face that seemed to ask, *is he serious?*
 
 I looked to answer, but before I could, someone spoke up. "You guys have this kind of argument every single time you’re together," they complained.
 

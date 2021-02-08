@@ -20,7 +20,7 @@ In 2021, I committed to trying to write a short research journal entry every wee
   <tr><td></td></tr>
 
   <!-- drafts -->
-  {% assign sorted = site.writing | sort: 'date' | reverse | where_exp:"item", "item.draft == true" %}
+  {% assign sorted = site.research_journal | sort: 'date' | reverse | where_exp:"item", "item.draft == true" %}
   {% for post in sorted %}
     <tr>
       {% assign filename = post.path | split: "/" | last %}

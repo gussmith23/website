@@ -2,7 +2,7 @@ name: html-proofer
 
 on:
   push:
-    branches: [ main ]
+    branches: [ $default-branch ]
   pull_request:
     branches: [ $default-branch ]
 

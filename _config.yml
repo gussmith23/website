@@ -30,6 +30,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gushfsmith
 github_username:  gussmith23
 
+# Github Pages needs this?
+repository: gussmith23/website
+
 # Build settings
 remote_theme: gussmith23/minima
 plugins:

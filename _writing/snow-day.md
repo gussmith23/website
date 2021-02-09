@@ -10,10 +10,10 @@ This was
   piece,
   written in December 2012
   and January 2013.
-I have written 
-  about snow days 
-  at different times in my life 
-  (see [Winter Scene in Orange and Blues](/winter-scene-in-orange-and-blues)).
+I have written
+  about snow days
+  at different times in my life
+  (see [Winter Scene in Orange and Blues]({% link _writing/winter-scene-in-orange-and-blues.md %})).
 If there's one recurring motif
   in my life,
   it's snow days;

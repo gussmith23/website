@@ -4,7 +4,7 @@ title: Timeline
 ---
 - **May 2020:**
   I wrote a [blog post]({{site.data.references.bring-your-own-datatypes-blog-post}}){:target='_blank'}
-    about my work on the [Bring Your Own Datatypes]({{site.data.references.bring-your-own-datatypes}}){:target='_blank'}
+    about my work on the [Bring Your Own Datatypes]({% link _research/bring-your-own-datatypes.md %})
     framework.
   It is a good overview of what the framework does,
     for those who are already (even vaguely) familiar with TVM.
@@ -50,19 +50,20 @@ title: Timeline
   + [A video of my talk](https://youtu.be/BqPloXyeb7o?t=2016){:target='_blank'}
   + [My slides]({% link assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-with-notes.pdf %}) ([without notes]({% link assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-without-notes.pdf %}), [keynote file]({% link assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium.key %}))
 - **December 2019:** I gave a talk on Relay program analysis at this year's [TVM conference]({{site.data.references.tvmconf2019}}){:target='_blank'}.
-  + [My slides](assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis-with-notes.pdf){:target='_blank'} ([without notes](assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis-without-notes.pdf){:target='_blank'}, [keynote file](assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis.key){:target='_blank'})
+  - [My slides]({% link assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis-with-notes.pdf %}) ([without notes]({% link assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis-without-notes.pdf %}), [keynote file]({% link assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis.key %}))
 - **November 2019:** I presented to my research group, [SAMPL]({{site.data.references.sampl}}){:target='_blank'}, about my summer internship at Microsoft, where I developed a program analysis framework in [Relay]({{site.data.references.relay}}){:target='_blank'}. Look out for my lightning talk at this year's [TVM conference]({{site.data.references.tvmconf2019}}){:target='_blank'} where I'll also be talking about program analysis in Relay.
-  + [My slides](assets/2019-11-25-internship-report/2019-11-25-internship-report-with-notes.pdf){:target='_blank'} ([without notes]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report.pdf %}), [keynote file]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report.key %}))
+  + [My slides]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report-with-notes.pdf %}) ([without notes]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report.pdf %}), [keynote file]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report.key %}))
 - **November 2019:** I'm happy to say I'm now coadvised by [Zach Tatlock]({{ site.data.references.zach }}){:target='_blank'}! I hope to work with Zach and Luis together to explore how we can use programming languages and compilers to improve the hardware design process.
 - **November 2019:** I presented a poster at the University of Virginia on my datatypes work at the annual review for the [CRISP center]({{ site.data.references.crisp }}){:target='_blank'}, from whom I get my funding.
   + [My poster]({% link assets/2019-11-05-crisp-bring-your-own-datatypes-poster.pdf %})
 - **October 2019:** I helped out the [Relay]({{ site.data.references.relay }}){:target='_blank'} group with a hackathon for the [ADA center]({{ site.data.references.ada }}){:target='_blank'} meeting in Ann Arbor.
 * **Summer 2019:** I completed an internship as a research intern with the Azure Hardware Systems Group under Marco Heddes. I was using TVM to statically analyze deep learning workloads. 
   + [The static analysis framework](https://github.com/microsoft/Analysis-Framework-for-TVM){:target='_blank'}, which Microsoft was kind enough to open-source.
+
 - **June 2019:** I gave a talk at ISCA/FCRC in Phoenix as part of our [TVM]({{ site.data.references.tvm }}){:target='_blank'} tutorial. Here are some materials:
-  + [A clip of my talk](https://youtu.be/MxhQN7OEU7E){:target='_blank'}
-  + [My slides](assets/2019-06-22-fcrc-bring-your-own-datatypes.pdf){:target='_blank'}
-  + [Python notebook demoing the Bring Your Own Datatypes framework](https://colab.research.google.com/github/uwsampl/tutorial/blob/master/notebook/08_TVM_Tutorial_BringYourOwnDatatypes.ipynb){:target='_blank'}
+  - [A clip of my talk](https://youtu.be/MxhQN7OEU7E)
+  - [My slides]({% link assets/2019-06-22-fcrc-bring-your-own-datatypes.pdf %})
+  - [Python notebook demoing the Bring Your Own Datatypes framework](https://colab.research.google.com/github/uwsampl/tutorial/blob/master/notebook/08_TVM_Tutorial_BringYourOwnDatatypes.ipynb)
 
 - **May 2019:** I gave a web talk for the [CRISP center]({{ site.data.references.crisp }}){:target='_blank'} (where I get my funding) on my Bring Your Own Datatypes work
-  + [My slideshow for the talk](assets/2019-05-22-crisp-web-talk.pdf){:target='_blank'}
+  - [My slideshow for the talk]({% link assets/2019-05-22-crisp-web-talk.pdf %})

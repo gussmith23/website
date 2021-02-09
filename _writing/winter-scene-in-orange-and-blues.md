@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Winter Scene in Orange and Blues
-permalink: /winter-scene-in-orange-and-blues
 date: 2018-09-21
 ---
 

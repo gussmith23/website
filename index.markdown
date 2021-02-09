@@ -29,7 +29,7 @@ I see
   between the fields.
 (If you're an undergrad/master's student
   looking for a project and this resonates with you,
-  check out [this page](/potential-mentee-projects)!)
+  check out [this page]({% link _research/potential-mentee-projects.md %})!)
 
 I'm currently working on
   [Glenside](https://github.com/gussmith23/glenside),

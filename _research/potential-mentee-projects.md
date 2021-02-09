@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects for Potential Mentees
-permalink: /potential-mentee-projects
 ---
 
 *Last updated December 7th, 2020.*

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dream Journal
-permalink: /dream-journal
 date:   2020-03-07 11:36:00 -0800
 last_modified_at:   2020-03-07 11:36:00 -0800
 ---

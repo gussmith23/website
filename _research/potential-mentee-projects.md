@@ -61,7 +61,7 @@ Onto TVM, I added a framework
   that allows people to explore new
   datatypes---alternatives to the 32-bit `float` and 64-bit `double` types
   that we are so used to.
-([`bfloat16`](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format){:target='_blank'} and [posits](https://posithub.org/docs/BeatingFloatingPoint.pdf){:target='_blank'} are great examples!)
+([`bfloat16`](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format){:target='_blank'} and [posits](https://posithub.org/docs/BeatingFloatingPoint.pdf){:target='_blank' data-proofer-ignore='true'} are great examples!)
 I ran a small experiment
   with this new framework,
   in which I trained models in `float32`

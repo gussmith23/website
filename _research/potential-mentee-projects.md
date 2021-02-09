@@ -31,6 +31,7 @@ Working with this team remains one of my fondest research memories, and it's bee
 (Not to mention, it's been cool to have some of them also move to Seattle!)
 
 ## Anything related to Glenside
+
 Read the [Glenside README](https://github.com/gussmith23/glenside/)
   and check out the [Glenside issues list](https://github.com/gussmith23/glenside/issues)
   to see if there's anything you want to contribute to. 
@@ -76,6 +77,7 @@ I moved on to a new project
   who could lead an effort to turn this into a paper!
 
 This could mean:
+
 - Figuring out how to train with custom datatypes
 - Developing a "quantization" scheme to quantize from `float32` to smaller custom datatypes (e.g. 8-bit posits)
 - Exploring whether using different datatypes in different layers of a workload would ever be beneficial

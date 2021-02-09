@@ -19,7 +19,7 @@ jobs:
           -v ${{ github.workspace }}:/srv/jekyll             \
           -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest                                \
-        /bin/bash -c "chmod 777 /srv/jekyll && ls -alh /srv/jekyll && bundle install && bundle exec jekyll build --future"
+        /bin/bash -c "chmod -R 777 /srv/jekyll && bundle exec jekyll build --future"
     - name: Run HTMLProofer on the site
       uses: chabad360/htmlproofer@v1.1
       with:

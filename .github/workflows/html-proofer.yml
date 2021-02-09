@@ -24,5 +24,5 @@ jobs:
       uses: chabad360/htmlproofer@v1.1
       with:
         directory: "${{ github.workspace }}/_site"
-      arguments: --url-ignore "/www.linkedin.com/"
+        arguments: --url-ignore "/www.linkedin.com/"
 

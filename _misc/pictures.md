@@ -9,6 +9,7 @@ pictures:
     caption: Collin and I on my first surf trip to Westport trip of 2020 (and last, before the coronavirus shutdown!)
     date: March 15th, 2020
   - path: /assets/personal-pictures/2020-02-24-post-quals.jpg
+    alt: Zach, Gus, and Luis after Gus's quals
     caption: Zach, myself, and Luis after my qualifying presentation!
     date: February 24th, 2020
 

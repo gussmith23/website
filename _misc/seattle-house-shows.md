@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Seattle House Shows Guide
-permalink: /seattle-house-shows
 date:   2020-01-28 23:24:00 -0700
 last_modified_at:   2020-01-28 23:24:00 -0700
 ---

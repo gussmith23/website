@@ -39,23 +39,23 @@ title: Timeline
                     I laid out some of my early ideas so that I could get early-stage feedback.
                     The whiteboard talk was also meant to encourage similar, more casual talks in the lab, rather than the formal talks we may feel expected to deliver.
   + The images of the whiteboard (in order) are here:
-    [1](/assets/2020-01-15-arch-lunch-whiteboard-talk/1.jpg){:target='_blank'}
-    [2](/assets/2020-01-15-arch-lunch-whiteboard-talk/2.jpg){:target='_blank'}
-    [3](/assets/2020-01-15-arch-lunch-whiteboard-talk/3.jpg){:target='_blank'}
-    [4](/assets/2020-01-15-arch-lunch-whiteboard-talk/4.jpg){:target='_blank'}
-    [5](/assets/2020-01-15-arch-lunch-whiteboard-talk/5.jpg){:target='_blank'}
-    [6](/assets/2020-01-15-arch-lunch-whiteboard-talk/6.jpg){:target='_blank'}
-    [7](/assets/2020-01-15-arch-lunch-whiteboard-talk/7.jpg){:target='_blank'}
+    [1]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/1.jpg %})
+    [2]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/2.jpg %})
+    [3]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/3.jpg %})
+    [4]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/4.jpg %})
+    [5]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/5.jpg %})
+    [6]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/6.jpg %})
+    [7]({% link assets/2020-01-15-arch-lunch-whiteboard-talk/7.jpg %})
 - **December 2019:** My lab, [SAMPL]({{site.data.references.sampl}}){:target='_blank'}, gave series of talks at the [Allen School Colloquium](https://www.cs.washington.edu/events/colloquia){:target='_blank'}. I delivered a new talk which I titled _The Datatypes Zoo,_ about the wild world of datatypes which I've been introduced to over the past year.
   + [A video of my talk](https://youtu.be/BqPloXyeb7o?t=2016){:target='_blank'}
-  + [My slides](assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-with-notes.pdf){:target='_blank'} ([without notes](assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-without-notes.pdf){:target='_blank'}, [keynote file](assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium.key){:target='_blank'})
+  + [My slides]({% link assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-with-notes.pdf %}) ([without notes]({% link assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium-without-notes.pdf %}), [keynote file]({% link assets/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium/2019-12-12-the-datatypes-zoo-sampl-allen-school-colloquium.key %}))
 - **December 2019:** I gave a talk on Relay program analysis at this year's [TVM conference]({{site.data.references.tvmconf2019}}){:target='_blank'}.
   + [My slides](assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis-with-notes.pdf){:target='_blank'} ([without notes](assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis-without-notes.pdf){:target='_blank'}, [keynote file](assets/2019-12-06-tvmconf-lightning-talk-program-analysis/2019-12-06-tvmconf-lightning-talk-program-analysis.key){:target='_blank'})
 - **November 2019:** I presented to my research group, [SAMPL]({{site.data.references.sampl}}){:target='_blank'}, about my summer internship at Microsoft, where I developed a program analysis framework in [Relay]({{site.data.references.relay}}){:target='_blank'}. Look out for my lightning talk at this year's [TVM conference]({{site.data.references.tvmconf2019}}){:target='_blank'} where I'll also be talking about program analysis in Relay.
-  + [My slides](assets/2019-11-25-internship-report/2019-11-25-internship-report-with-notes.pdf){:target='_blank'} ([without notes](assets/2019-11-25-internship-report/2019-11-25-internship-report.pdf){:target='_blank'}, [keynote file](assets/2019-11-25-internship-report/2019-11-25-internship-report.key){:target='_blank'})
+  + [My slides](assets/2019-11-25-internship-report/2019-11-25-internship-report-with-notes.pdf){:target='_blank'} ([without notes]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report.pdf %}), [keynote file]({% link assets/2019-11-25-internship-report/2019-11-25-internship-report.key %}))
 - **November 2019:** I'm happy to say I'm now coadvised by [Zach Tatlock]({{ site.data.references.zach }}){:target='_blank'}! I hope to work with Zach and Luis together to explore how we can use programming languages and compilers to improve the hardware design process.
 - **November 2019:** I presented a poster at the University of Virginia on my datatypes work at the annual review for the [CRISP center]({{ site.data.references.crisp }}){:target='_blank'}, from whom I get my funding.
-  + [My poster](assets/2019-11-05-crisp-bring-your-own-datatypes-poster.pdf){:target='_blank'}
+  + [My poster]({% link assets/2019-11-05-crisp-bring-your-own-datatypes-poster.pdf %})
 - **October 2019:** I helped out the [Relay]({{ site.data.references.relay }}){:target='_blank'} group with a hackathon for the [ADA center]({{ site.data.references.ada }}){:target='_blank'} meeting in Ann Arbor.
 * **Summer 2019:** I completed an internship as a research intern with the Azure Hardware Systems Group under Marco Heddes. I was using TVM to statically analyze deep learning workloads. 
   + [The static analysis framework](https://github.com/microsoft/Analysis-Framework-for-TVM){:target='_blank'}, which Microsoft was kind enough to open-source.

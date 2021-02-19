@@ -77,7 +77,7 @@ I did my BS/MS
   and [Jack Sampson]({{site.data.references.jack}}){:target='_blank'}.
 
 In my free time,
-  I [write]({% link writing.md %}) fiction and poetry,
+  I [write]({% link _writing/index.md %}) fiction and poetry,
   [program](https://github.com/gussmith23),
   climb, surf, run, 
   and just generally [try to enjoy life in and around Seattle]({% link  _misc/pictures.md %}).

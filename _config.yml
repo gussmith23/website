@@ -39,6 +39,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+header_pages:
+  - "_research/index.md"
+  - "_writing/index.md"
+  - "_misc/index.md"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

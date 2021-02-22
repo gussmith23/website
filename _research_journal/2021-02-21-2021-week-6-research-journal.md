@@ -3,6 +3,9 @@ layout: post
 title: 2021 Week 6 Research Journal
 ---
 
+*Posted this one late, whoops!*
+
+---
 ## Goals
 
 1. **Some amount of progress on Arxiv.** Again, totally unsure on how to track progress. I write an hour a day. I could up it to two. I worry that, without a goal, I'm not being efficient. But honestly, it's going well, so why break my back over it?

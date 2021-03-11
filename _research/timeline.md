@@ -2,6 +2,24 @@
 layout: default
 title: Timeline
 ---
+- **March 2021:**
+  Long time without updating!
+  This summer
+    I'll be interning
+    with [Aart Bik](aartbik.com)
+    at Google,
+    working on bringing
+    sparse tensor support
+    to MLIR.
+
+- **Summer 2020–Winter 2021**:
+  I've been working on
+    [Glenside](https://github.com/gussmith23/glenside),
+    a new language
+    for representing tensor-based
+    hardware–software
+    programs.
+
 - **May 2020:**
   I wrote a [blog post]({{site.data.references.bring-your-own-datatypes-blog-post}}){:target='_blank'}
     about my work on the [Bring Your Own Datatypes]({% link _research/bring-your-own-datatypes.md %})

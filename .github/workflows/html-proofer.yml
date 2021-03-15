@@ -24,5 +24,7 @@ jobs:
       uses: chabad360/htmlproofer@v1.1
       with:
         directory: "${{ github.workspace }}/_site"
-        arguments: --url-ignore "/www.linkedin.com/"
+        # Ignore rtml-notebooks as it's a private repo.
+        # Ignore linkedin b/c of login-wall.
+        arguments: --url-ignore "/www.linkedin.com/,https://github.com/gussmith23/rtml-notebooks"
 

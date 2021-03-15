@@ -9,7 +9,7 @@ Goals for this week, as written, are
 
 1. Go hard on Arxiv (what does it mean?)
 2. Make a final push for LATTE
-3. Finish [Python notebook](https://github.com/gussmith23/simulator-sweep) (see output [here](https://gussmith23.github.io/simulator-sweep)) for the RTML demo. Namely, (get generated C code working)
+3. Finish [Python notebook](https://github.com/gussmith23/rtml-notebooks) (see output [here](https://gussmith23.github.io/rtml-notebooks)) for the RTML demo. Namely, (get generated C code working)
 
 ---
 

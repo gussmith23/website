@@ -6,7 +6,7 @@ title: Timeline
   Long time without updating!
   This summer
     I'll be interning
-    with [Aart Bik](aartbik.com)
+    with [Aart Bik](https://www.aartbik.com/)
     at Google,
     working on bringing
     sparse tensor support

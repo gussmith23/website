@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2021 Week <week#> Research Journal
+draft: true
 ---
 
 ## Goals

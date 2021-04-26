@@ -14,11 +14,15 @@ In 2021, I committed to trying to write a short research journal entry every wee
     </tr>
   {% endfor %}
 
+  <!-- commenting out drafts -->
   <!-- add empty row for spacing -->
   <!-- TODO i'm sure there's a cleaner way to do this -->
+  <!-- 
   <tr><td></td></tr>
+  -->
 
   <!-- drafts -->
+  <!-- 
   {% assign sorted = site.research_journal | sort: 'date' | reverse | where_exp:"item", "item.draft == true" %}
   {% for post in sorted %}
     <tr>
@@ -28,4 +32,5 @@ In 2021, I committed to trying to write a short research journal entry every wee
       {% endif %}
     </tr>
   {% endfor %}
+  -->
 </table>

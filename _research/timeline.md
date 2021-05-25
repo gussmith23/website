@@ -3,7 +3,11 @@ layout: default
 title: Timeline
 ---
 
-- **April 2021:** Our Glenside paper was accepted at [MAPS@PLDI21!](https://pldi21.sigplan.org/home/maps-2021)
+- **April 2021:** Our paper, ["Pure Tensor Program Rewriting via Access Patterns",](https://arxiv.org/abs/2105.09377)
+    was accepted at [MAPS@PLDI21!](https://pldi21.sigplan.org/home/maps-2021)
+  This is the result of this past year's work on
+    [Glenside.](https://github.com/gussmith23/glenside)
+
 
 - **March 2021:**
   Long time without updating!

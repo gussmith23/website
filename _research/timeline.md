@@ -3,6 +3,15 @@ layout: default
 title: Timeline
 ---
 
+- **May 2021:** I gave practice versions
+    of my MAPS 2021 talk
+    for PLSE lunch
+    and for
+    for UCSD's
+    [Embedded Systems Group](https://cse.ucsd.edu/faculty-research/research-areas/embedded-systems-and-software).
+  - [Slides (without notes)]({% link assets/2021-05-27-ucsd-glenside/2021-05-27-ucsd-glenside.pdf %}),
+    [Keynote]({% link assets/2021-05-27-ucsd-glenside/2021-05-27-ucsd-glenside.key %}).
+
 - **April 2021:** Our paper, ["Pure Tensor Program Rewriting via Access Patterns",](https://arxiv.org/abs/2105.09377)
     was accepted at [MAPS@PLDI21!](https://pldi21.sigplan.org/home/maps-2021)
   This is the result of this past year's work on

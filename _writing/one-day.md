@@ -3,6 +3,7 @@ layout: post
 title: One Day
 last_modified_at:   2020-02-01 02:13:00 -0800
 date: 2015-04-25
+featured: true
 ---
 
 I woke up to a gray morning; as gray as every other morning.

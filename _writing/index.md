@@ -12,7 +12,16 @@ order: 2
     <tr>
       {% assign filename = post.path | split: "/" | last %}
       {% if filename != "index.md" %}
-        <td>{{ post.date | date: "%D" }}</td> <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+        <td>{{ post.date | date: "%D" }}</td>
+        <td>
+          <a href="{{ post.url }}">
+          {% if post.featured %}
+          <b>{{ post.title }}</b>
+          {% else %}
+          {{ post.title }}
+          {% endif %}
+          </a>
+        </td>
       {% endif %}
     </tr>
   {% endfor %}

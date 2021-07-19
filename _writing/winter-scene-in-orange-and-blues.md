@@ -2,6 +2,7 @@
 layout: post
 title: Winter Scene in Orange and Blues
 date: 2018-09-21
+featured: true
 ---
 
 *The small house is surrounded by other small houses, in a suburb on the

@@ -51,7 +51,6 @@ glowing filaments. He needs a haircut. I could trim it for him, but I\'d
 rather send him to his stylist. It\'s easy to make him smile, but she
 makes him laugh. I\'m rooting for her.
 
-
 <br/>
 
 It's Friday, but nobody will be going anywhere. Nobody will be leaving
@@ -93,4 +92,3 @@ know I\'ll miss this. ◾️
 <br/>
 
 *Written between 2016 and 2018.*
-
